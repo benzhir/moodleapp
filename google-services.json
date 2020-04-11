@@ -1,42 +1,193 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "863005033968",
+    "firebase_url": "https://tawassol-parent.firebaseio.com",
+    "project_id": "tawassol-parent",
+    "storage_bucket": "tawassol-parent.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:863005033968:android:8a27649f48c9cd3df0c935",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "com.ayouris.aylearn"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyBesQn_jv_Q19xSlAugyrB6szDMfSFvsU4"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863005033968-j7vug2agedoh1f4frb46fa9fesj0k81o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayouris.tawassol.mobile.philosophe.parent",
+                "app_store_id": "1500500012"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863005033968:android:133fff6d36c8d645",
+        "android_client_info": {
+          "package_name": "com.ayouris.tawassol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesQn_jv_Q19xSlAugyrB6szDMfSFvsU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863005033968-j7vug2agedoh1f4frb46fa9fesj0k81o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayouris.tawassol.mobile.philosophe.parent",
+                "app_store_id": "1500500012"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863005033968:android:a4791de48aaac41bf0c935",
+        "android_client_info": {
+          "package_name": "com.ayouris.tawassol.mobile.e242.parent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesQn_jv_Q19xSlAugyrB6szDMfSFvsU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863005033968-j7vug2agedoh1f4frb46fa9fesj0k81o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayouris.tawassol.mobile.philosophe.parent",
+                "app_store_id": "1500500012"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863005033968:android:2e95e7a78e1f59fe",
+        "android_client_info": {
+          "package_name": "com.ayouris.tawassoladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesQn_jv_Q19xSlAugyrB6szDMfSFvsU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863005033968-j7vug2agedoh1f4frb46fa9fesj0k81o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayouris.tawassol.mobile.philosophe.parent",
+                "app_store_id": "1500500012"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863005033968:android:2c5f6d2633134e2e",
+        "android_client_info": {
+          "package_name": "com.ayouris.tawassolprof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesQn_jv_Q19xSlAugyrB6szDMfSFvsU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863005033968-8p7sifso9g2kej4kfp12755qa0ncaccs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863005033968-j7vug2agedoh1f4frb46fa9fesj0k81o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayouris.tawassol.mobile.philosophe.parent",
+                "app_store_id": "1500500012"
+              }
+            }
+          ]
         }
       }
     }
